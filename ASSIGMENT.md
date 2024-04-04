@@ -24,6 +24,6 @@ En caso de que no envíes tus soluciones antes de la fecha límite, se generará
 
 ## ¿Necesitas Ayuda?
 
-Si tienes alguna pregunta sobre los ejercicios o encuentras algún problema, no dudes en contactar haciendo uso del canal designado.
+Si tienes alguna pregunta sobre los ejercicios o encuentras algún problema, no dudes en contactar haciendo uso del canal de teams designado.
 
 
