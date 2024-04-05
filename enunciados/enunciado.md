@@ -221,3 +221,7 @@ Crea un archivo llamado `redirreciones.txt` y añade  en la primera linea **mi N
 ## 32. Uso de la redirrecion
 
 Lista todos archivos de tu directorio actual y usa el operador de redirrecion `|` para filtrar su salida y buscar el archivo `redirreciones.txt`
+
+## 33. Uso de &
+
+Crea tres directorios y un archivo llamado `mensaje.txt` ahora copia el archivo de texto en los tres directorios con una sola linea de comando
