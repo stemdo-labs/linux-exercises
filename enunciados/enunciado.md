@@ -213,3 +213,23 @@ Crear un usuario con el Id 999 y el nombre `navin`.
 Crear el grupo `oficina1`.
 Cambiarle el nombre a `oficina2`. 
 Crear usuario `sonia` en `oficina2`.
+
+## 31. Uso de > y >>
+
+Crea un archivo llamado `redirreciones.txt` y añade  en la primera linea **mi Nombre es**,ahora prueba a concatenar tu nombre con los dos operadores y comprueba la diferencia de su uso.  
+
+## 32. Uso de la redirrecion
+
+Lista todos archivos de tu directorio actual y usa el operador de redirrecion `|` para filtrar su salida y buscar el archivo `redirreciones.txt`.
+
+## 33. Uso de &
+
+Crea tres directorios y un archivo llamado `mensaje.txt` ahora copia el archivo de texto en los tres directorios con una sola linea de comando usando el operador **&&**.
+
+## 34. Crea un script que reciba como parámetro la ruta a un fichero y que nos indique si tiene permisos de ejecución.
+
+El script deberá verificar que se ha introducido algún parámetro, y en el caso de que se haya introducido, verificar antes de comprobar los permisos que el fichero existe.
+
+## 35. Crea un script que reciba como parámetros el nombre de uno o varios usuarios, y nos indique si existen en el sistema.
+
+Consejo utiliza el archivo `/etc/passwd` y realiza filtros con grep.
