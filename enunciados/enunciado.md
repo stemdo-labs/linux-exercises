@@ -213,3 +213,11 @@ Crear un usuario con el Id 999 y el nombre `navin`.
 Crear el grupo `oficina1`.
 Cambiarle el nombre a `oficina2`. 
 Crear usuario `sonia` en `oficina2`.
+
+## 31. Uso de > y >>
+
+Crea un archivo llamado `redirreciones.txt` y añade  en la primera linea **mi Nombre es**,ahora prueba a concatenar tu nombre con los dos operadores y comprueba la diferencia de su uso.  
+
+## 32. Uso de la redirrecion
+
+Lista todos archivos de tu directorio actual y usa el operador de redirrecion `|` para filtrar su salida y buscar el archivo `redirreciones.txt`
